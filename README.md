@@ -1,4 +1,4 @@
-# Gemini-Tests
+# AI-Tests
 
 The model used is gemini-1.5-flash.
 Get API Key from [aistudio.google.com](https://aistudio.google.com).
